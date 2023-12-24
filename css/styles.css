@@ -19,22 +19,13 @@ font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
-letter-spacing: 0.03e;
 text-transform: uppercase;
 color: #4D5AE5;;
+letter-spacing: 0.03em;
 }
 
 
-
-    font-weight: 500;
-    color: #4D5AE5;
-    letter-spacing: 0.54px;
-    text-transform: uppercase;
-    font-family: "Raleway", sans-serif;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-
-.span {
+.accent {
 color: #2e2f42;
 }
 
@@ -42,9 +33,11 @@ color: #2e2f42;
 
 
 .info {
+    font-weight: 500;
 color: #2E2F42;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
 .info:hover, .info:focus, .info:active {
 color: #404BBF;
@@ -56,8 +49,8 @@ font-style: normal;
 }
 
  .address-style {
+    line-height: 1.5;
 font-weight: 500;
-line-height: 1.5
 letter-spacing: 0.02em;
 color: #434455;
 }
