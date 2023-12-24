@@ -112,7 +112,7 @@ color: s#434455;
 
 /*Section3*/
 
-.section--three {
+.hero-one {
     background-color: #F4F4FD;
 }
 
@@ -139,9 +139,10 @@ line-height: 1.11;
 .name-style {
 font-size: 20px;
 letter-spacing: 0.02em;
-color: #2e2f42
+color: #2e2f42;
 font-weight: 500;
 line-height: 1.2;
+
 }
 
  /*Footer*/
