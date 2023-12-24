@@ -75,22 +75,25 @@ background-color: #2E2F42;
 }
 
 .button-style {
-background-color: #4D5AE5;
+color: #ffffff;
 font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
+cursor: pointer;
 }
-.button-style:hover, .button-style.info:focus {
+.button-style:hover, .button-style:focus {
         background-color: #404BBF;
 }
 
 .solutions{
 font-size: 56px;
-line-height: 1,07;
+line-height: 1.07;
 color: white;
 font-weight: 700;
+text-align: center;
+letter-spacing: 0.02em;
 }
 
 /*Section2*/
