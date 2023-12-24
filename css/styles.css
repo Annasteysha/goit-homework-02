@@ -116,6 +116,11 @@ color: s#434455;
     background-color: #F4F4FD;
 }
 
+
+
+/*Section4*/
+
+
 .our-time-style {
 font-size: 36px;
 text-align: center;
@@ -134,7 +139,7 @@ line-height: 1.11;
 .name-style {
 font-size: 20px;
 letter-spacing: 0.02em;
-color: #434455;
+color: #2e2f42
 font-weight: 500;
 line-height: 1.2;
 }
