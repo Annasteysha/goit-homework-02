@@ -1,0 +1,126 @@
+body {
+font-family: "Roboto", sans-serif;
+color: #434455;
+}
+
+a {
+text-decoration: none;
+}
+ul {
+list-style: none;
+}
+
+
+/*Logo*/
+.logo {
+font-family: "Raleway", sans-serif;
+
+}
+.logo-style {
+    font-size: 18px;
+    font-weight: 700;
+    color: #4D5AE5;
+       
+        letter-spacing: 0.54px;
+        text-transform: uppercase;
+}
+
+/*Info*/ 
+
+
+.info {
+color: #2E2F42;
+font-size: 16px;
+line-height: 1,5;
+}
+.info:hover, .info:focus, .info:active {
+color: #404BBF;
+}
+
+/*Address*/
+ .address-style {
+font-weight: 500;
+}
+.address-style:hover,
+.address-style:focus {
+     color: #404BBF;
+    font-size: 16px;
+    line-height: 1,5;
+}
+
+/*Section1*/
+
+.hero {
+background-color: #2E2F42;
+}
+.button-style {
+    color: white;
+background-color: #4D5AE5;
+font-size: 16px;
+line-height: 1,5;
+font-weight: 500;
+cursor: pointer;
+}
+.button-style:hover, .button-style.info:focus {
+background-color: #404BBF;
+}
+
+.solutions{
+font-size: 56px;
+line-height: 1,07;
+color: white;
+font-weight: 700;
+}
+
+/*Section2*/
+
+.solutions-item {
+font-size: 20px;
+line-height: 1,2;
+color: #2E2F42;
+font-weight: 500;
+}
+.solutions-link {
+font-size: 16px;
+line-height: 1,5;
+color: s#434455;
+}
+
+/*Section3*/
+.section-3 {
+    background-color: #F4F4FD;
+}
+.our-time-style {
+font-size: 36px;
+line-height: 1,11;
+color: #2E2F42;
+font-weight: 700;
+}
+.name-style {
+font-size: 20px;
+line-height: 1,2;
+color: #2E2F42;
+font-weight: 500;
+}
+
+ /*Footer*/
+
+
+.footer-style {
+background-color: #2E2F42;
+}
+.profession {
+    font-size: 16px;
+    line-height: 1, 5;
+    color: #F4F4FD;
+}
+
+#434455  SLATE
+
+#2E2F42 NAVY
+
+
+#404BBF  OCEAN
+
+
+s
