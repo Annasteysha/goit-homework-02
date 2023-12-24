@@ -1,6 +1,7 @@
 body {
 font-family: "Roboto", sans-serif;
 color: #434455;
+background: #FFF;
 }
 
 a {
@@ -18,11 +19,16 @@ font-family: "Raleway", sans-serif;
 }
 .logo-style {
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 500;
     color: #4D5AE5;
-       
-        letter-spacing: 0.54px;
-        text-transform: uppercase;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.span {
+color: #2e2f42;
 }
 
 /*Info*/ 
@@ -38,31 +44,42 @@ color: #404BBF;
 }
 
 /*Address*/
+.address-link {
+font-style: normal;
+}
+
  .address-style {
 font-weight: 500;
+line-height: 1.5
+letter-spacing: 0.02em;
+color: #434455;
 }
+
 .address-style:hover,
 .address-style:focus {
-     color: #404BBF;
     font-size: 16px;
-    line-height: 1,5;
 }
+
+
+
 
 /*Section1*/
 
 .hero {
 background-color: #2E2F42;
 }
+
+
 .button-style {
-    color: white;
 background-color: #4D5AE5;
-font-size: 16px;
-line-height: 1,5;
+font-family: "Roboto", sans-serif;
 font-weight: 500;
-cursor: pointer;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
 }
 .button-style:hover, .button-style.info:focus {
-background-color: #404BBF;
+        background-color: #404BBF;
 }
 
 .solutions{
@@ -76,31 +93,44 @@ font-weight: 700;
 
 .solutions-item {
 font-size: 20px;
-line-height: 1,2;
+line-height: 1.2;
+letter-spacing: 0.02em;
 color: #2E2F42;
 font-weight: 500;
 }
 .solutions-link {
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
+letter-spacing: 0.02em;
 color: s#434455;
 }
 
 /*Section3*/
-.section-3 {
+.section--three {
     background-color: #F4F4FD;
 }
 .our-time-style {
 font-size: 36px;
-line-height: 1,11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
 color: #2E2F42;
 font-weight: 700;
+line-height: 1.11;
 }
+
+.fon-section-three {
+    background-color: #FFFFFF;
+}
+
+
+
 .name-style {
 font-size: 20px;
-line-height: 1,2;
-color: #2E2F42;
+letter-spacing: 0.02em;
+color: #434455;
 font-weight: 500;
+line-height: 1.2;
 }
 
  /*Footer*/
@@ -112,15 +142,30 @@ background-color: #2E2F42;
 .profession {
     font-size: 16px;
     line-height: 1, 5;
-    color: #F4F4FD;
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+
 }
 
-#434455  SLATE
+.logo-style-2 {
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color; #4d5ae;
 
-#2E2F42 NAVY
+}
 
 
-#404BBF  OCEAN
+.accent-2 {
+color: #f4f4fd;
+}
 
-
-s
+.footer-style  {
+line-height: 1.5;
+color; #F4F4FD;
+letter-spacing: 0.02em;
+}
