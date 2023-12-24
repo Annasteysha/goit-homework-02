@@ -55,7 +55,11 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.address-style:hover, .address-style:focus {
+.address-style:hover {
+        color: #404bbf;
+    }
+
+.address-style:focus {
     color: #404bbf;
 }
 
@@ -143,7 +147,7 @@ line-height: 1.2;
 
  /*Footer*/
 
-.footer-fon {
+.footer-style {
 font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
