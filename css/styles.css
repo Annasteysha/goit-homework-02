@@ -107,7 +107,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: s#434455;
+color: #434455;
 }
 
 /*Section3*/
@@ -116,7 +116,10 @@ color: s#434455;
     background-color: #F4F4FD;
 }
 
-
+.profession {
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
 
 /*Section4*/
 
